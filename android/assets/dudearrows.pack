@@ -1,0 +1,68 @@
+
+dudearrows.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+dude
+  rotate: false
+  xy: 1, 203
+  size: 388, 300
+  orig: 388, 300
+  offset: 0, 0
+  index: -1
+down
+  rotate: false
+  xy: 1, 1
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+downpressed
+  rotate: false
+  xy: 391, 303
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+left
+  rotate: false
+  xy: 593, 303
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+leftpressed
+  rotate: false
+  xy: 795, 303
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+right
+  rotate: false
+  xy: 203, 1
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+rightpressed
+  rotate: false
+  xy: 405, 101
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+up
+  rotate: false
+  xy: 607, 101
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+uppressed
+  rotate: false
+  xy: 809, 101
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
